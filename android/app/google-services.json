@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "828004306624",
+    "project_id": "smartdrivinglicense",
+    "storage_bucket": "smartdrivinglicense.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:828004306624:android:08ba6d62c9d1a84a212725",
+        "android_client_info": {
+          "package_name": "com.example.smart_driving_license"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDn7D-i5AjA9ZfrzlUpPVOxXKz0QMuAxX0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
